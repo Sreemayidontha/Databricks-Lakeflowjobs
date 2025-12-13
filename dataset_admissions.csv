@@ -1,0 +1,201 @@
+AdmissionID,PatientID,Diagnosis,Department,AdmissionDate,DischargeDate,HospitalName
+A1001,P041,Migraine,Orthopedics,2025-07-12,2025-07-14,Apollo City Hospital
+A1002,P028,Migraine,Psychiatry,2024-07-22,2024-07-31,St. Mary Health Center
+A1003,P015,Fracture,Pulmonology,2024-06-08,2024-06-12,Green Valley Clinic
+A1004,P022,Diabetes,Dermatology,2025-04-15,2025-04-24,CityCare Hospital
+A1005,P025,Flu,Dermatology,2024-03-12,2024-03-13,Apollo City Hospital
+A1006,P015,Skin Allergy,Oncology,2025-01-08,2025-01-11,Apollo City Hospital
+A1007,P023,Pneumonia,General Medicine,2024-09-07,2024-09-10,St. Mary Health Center
+A1008,P025,Diabetes,Cardiology,2024-11-19,2024-11-26,CityCare Hospital
+A1009,P005,Gastritis,Pulmonology,2024-09-28,2024-10-01,Sunrise Medical Center
+A1010,P048,Skin Allergy,General Medicine,2024-08-12,2024-08-15,Green Valley Clinic
+A1011,P032,Fracture,Pulmonology,2025-01-25,2025-02-04,Lifeline Hospital
+A1012,P034,Pneumonia,Psychiatry,2024-12-14,2024-12-16,Apollo City Hospital
+A1013,P028,Depression,Orthopedics,2024-11-01,2024-11-10,Apollo City Hospital
+A1014,P013,Depression,Cardiology,2024-01-20,2024-01-22,Lifeline Hospital
+A1015,P020,Pneumonia,Neurology,2025-06-29,2025-07-02,CityCare Hospital
+A1016,P043,Depression,General Medicine,2025-07-06,2025-07-10,Sunrise Medical Center
+A1017,P020,Depression,Gastroenterology,2024-08-18,2024-08-20,Sunrise Medical Center
+A1018,P002,Migraine,Cardiology,2025-10-08,2025-10-09,Apollo City Hospital
+A1019,P005,Migraine,Oncology,2025-07-06,2025-07-09,Sunrise Medical Center
+A1020,P037,Skin Allergy,Pediatrics,2025-03-17,2025-03-23,CityCare Hospital
+A1021,P027,Pneumonia,Cardiology,2024-12-13,2024-12-15,Apollo City Hospital
+A1022,P013,Skin Allergy,Orthopedics,2024-09-12,2024-09-14,Lifeline Hospital
+A1023,P036,Migraine,Orthopedics,2025-05-07,2025-05-11,Lifeline Hospital
+A1024,P026,Skin Allergy,Oncology,2025-03-09,2025-03-18,Green Valley Clinic
+A1025,P046,Migraine,Cardiology,2024-11-17,2024-11-18,Apollo City Hospital
+A1026,P038,Depression,Neurology,2025-09-01,2025-09-03,CityCare Hospital
+A1027,P016,Flu,Cardiology,2025-08-20,2025-08-30,Lifeline Hospital
+A1028,P021,Asthma,Pulmonology,2025-10-22,2025-10-27,Apollo City Hospital
+A1029,P021,Flu,Neurology,2024-08-06,2024-08-15,St. Mary Health Center
+A1030,P009,Asthma,Orthopedics,2024-11-05,2024-11-15,St. Mary Health Center
+A1031,P042,Pneumonia,Orthopedics,2024-04-19,2024-04-28,CityCare Hospital
+A1032,P018,Migraine,Oncology,2024-02-22,2024-02-24,Green Valley Clinic
+A1033,P028,Fracture,Oncology,2025-03-28,2025-04-06,Apollo City Hospital
+A1034,P028,Fracture,Psychiatry,2025-08-19,2025-08-28,Green Valley Clinic
+A1035,P028,Hypertension,Dermatology,2024-09-12,2024-09-14,Apollo City Hospital
+A1036,P050,Fracture,Orthopedics,2024-07-02,2024-07-08,CityCare Hospital
+A1037,P027,Pneumonia,Pulmonology,2024-08-15,2024-08-19,Lifeline Hospital
+A1038,P030,Hypertension,Pediatrics,2024-10-12,2024-10-14,Green Valley Clinic
+A1039,P018,Depression,Dermatology,2024-09-24,2024-09-27,CityCare Hospital
+A1040,P017,Diabetes,Pulmonology,2025-08-13,2025-08-17,Lifeline Hospital
+A1041,P003,Skin Allergy,Neurology,2024-11-17,2024-11-19,St. Mary Health Center
+A1042,P020,Skin Allergy,Oncology,2025-03-06,2025-03-13,Sunrise Medical Center
+A1043,P048,Depression,Cardiology,2024-08-03,2024-08-10,Green Valley Clinic
+A1044,P038,Gastritis,Gastroenterology,2025-04-29,2025-05-02,St. Mary Health Center
+A1045,P006,Migraine,Oncology,2024-05-30,2024-05-31,Sunrise Medical Center
+A1046,P016,Skin Allergy,General Medicine,2025-01-28,2025-02-05,Apollo City Hospital
+A1047,P016,Skin Allergy,Pediatrics,2025-06-14,2025-06-22,Apollo City Hospital
+A1048,P036,Gastritis,Psychiatry,2025-09-19,2025-09-28,Lifeline Hospital
+A1049,P036,Asthma,Pediatrics,2025-05-11,2025-05-15,St. Mary Health Center
+A1050,P029,Asthma,Dermatology,2024-03-23,2024-03-26,St. Mary Health Center
+A1051,P015,Pneumonia,Pulmonology,2025-07-09,2025-07-17,Green Valley Clinic
+A1052,P004,Hypertension,General Medicine,2024-01-07,2024-01-13,Lifeline Hospital
+A1053,P049,Migraine,Oncology,2024-01-30,2024-02-06,Lifeline Hospital
+A1054,P043,Fracture,General Medicine,2025-08-29,2025-09-08,Lifeline Hospital
+A1055,P002,Gastritis,Orthopedics,2025-01-23,2025-01-29,Green Valley Clinic
+A1056,P030,Skin Allergy,Oncology,2024-01-20,2024-01-29,Lifeline Hospital
+A1057,P023,Hypertension,Cardiology,2024-01-21,2024-01-31,Sunrise Medical Center
+A1058,P016,Migraine,Gastroenterology,2024-06-20,2024-06-30,Green Valley Clinic
+A1059,P048,Flu,Cardiology,2025-01-19,2025-01-26,St. Mary Health Center
+A1060,P013,Asthma,General Medicine,2024-02-12,2024-02-18,St. Mary Health Center
+A1061,P028,Skin Allergy,Gastroenterology,2025-01-05,2025-01-13,Lifeline Hospital
+A1062,P010,Depression,Gastroenterology,2025-08-29,2025-09-03,Lifeline Hospital
+A1063,P016,Gastritis,General Medicine,2024-01-30,2024-02-07,Green Valley Clinic
+A1064,P021,Asthma,Dermatology,2024-10-09,2024-10-18,St. Mary Health Center
+A1065,P034,Gastritis,Psychiatry,2025-05-02,2025-05-10,Apollo City Hospital
+A1066,P002,Migraine,Oncology,2025-07-20,2025-07-29,Lifeline Hospital
+A1067,P028,Gastritis,Oncology,2024-08-24,2024-08-26,Green Valley Clinic
+A1068,P013,Migraine,Gastroenterology,2025-08-26,2025-09-04,Apollo City Hospital
+A1069,P019,Diabetes,Orthopedics,2025-06-30,2025-07-03,CityCare Hospital
+A1070,P003,Fracture,Gastroenterology,2025-08-10,2025-08-15,CityCare Hospital
+A1071,P031,Asthma,Gastroenterology,2025-02-14,2025-02-22,CityCare Hospital
+A1072,P037,Asthma,Neurology,2025-07-25,2025-08-01,CityCare Hospital
+A1073,P039,Gastritis,Oncology,2025-08-05,2025-08-15,Green Valley Clinic
+A1074,P040,Pneumonia,Orthopedics,2025-07-19,2025-07-21,Sunrise Medical Center
+A1075,P001,Hypertension,Pediatrics,2024-10-16,2024-10-24,Apollo City Hospital
+A1076,P044,Pneumonia,Psychiatry,2024-06-01,2024-06-06,Apollo City Hospital
+A1077,P010,Flu,General Medicine,2024-05-07,2024-05-15,Lifeline Hospital
+A1078,P020,Pneumonia,General Medicine,2024-11-26,2024-12-06,Lifeline Hospital
+A1079,P002,Asthma,General Medicine,2025-04-26,2025-05-05,Sunrise Medical Center
+A1080,P029,Gastritis,Neurology,2025-02-22,2025-02-28,Green Valley Clinic
+A1081,P043,Gastritis,Oncology,2024-02-07,2024-02-15,St. Mary Health Center
+A1082,P021,Depression,Cardiology,2024-02-25,2024-02-29,Lifeline Hospital
+A1083,P024,Migraine,Oncology,2025-03-24,2025-04-01,Green Valley Clinic
+A1084,P002,Depression,Cardiology,2024-08-18,2024-08-20,CityCare Hospital
+A1085,P008,Asthma,Pulmonology,2024-09-06,2024-09-14,Lifeline Hospital
+A1086,P010,Asthma,Pulmonology,2024-09-30,2024-10-01,St. Mary Health Center
+A1087,P047,Gastritis,Psychiatry,2024-12-06,2024-12-15,Green Valley Clinic
+A1088,P035,Migraine,General Medicine,2025-02-24,2025-02-25,Sunrise Medical Center
+A1089,P048,Fracture,Gastroenterology,2025-05-29,2025-06-08,Sunrise Medical Center
+A1090,P007,Fracture,Pulmonology,2025-04-25,2025-04-30,CityCare Hospital
+A1091,P040,Depression,Pulmonology,2025-05-14,2025-05-23,Apollo City Hospital
+A1092,P040,Pneumonia,Pulmonology,2024-04-12,2024-04-20,Apollo City Hospital
+A1093,P045,Hypertension,Oncology,2025-03-17,2025-03-20,Green Valley Clinic
+A1094,P034,Fracture,Neurology,2024-09-03,2024-09-11,St. Mary Health Center
+A1095,P010,Asthma,Cardiology,2025-07-13,2025-07-16,Green Valley Clinic
+A1096,P029,Skin Allergy,Oncology,2024-07-22,2024-07-29,Green Valley Clinic
+A1097,P031,Diabetes,General Medicine,2024-10-29,2024-10-30,Apollo City Hospital
+A1098,P043,Hypertension,General Medicine,2024-08-23,2024-09-02,Green Valley Clinic
+A1099,P023,Asthma,Orthopedics,2025-10-23,2025-10-24,Apollo City Hospital
+A1100,P029,Pneumonia,Oncology,2025-03-01,2025-03-04,Apollo City Hospital
+A1001,P041,Migraine,Orthopedics,2025-07-12,2025-07-14,Apollo City Hospital
+A1002,P028,Migraine,Psychiatry,2024-07-22,2024-07-31,St. Mary Health Center
+A1003,P015,Fracture,Pulmonology,2024-06-08,2024-06-12,Green Valley Clinic
+A1004,P022,Diabetes,Dermatology,2025-04-15,2025-04-24,CityCare Hospital
+A1005,P025,Flu,Dermatology,2024-03-12,2024-03-13,Apollo City Hospital
+A1006,P015,Skin Allergy,Oncology,2025-01-08,2025-01-11,Apollo City Hospital
+A1007,P023,Pneumonia,General Medicine,2024-09-07,2024-09-10,St. Mary Health Center
+A1008,P025,Diabetes,Cardiology,2024-11-19,2024-11-26,CityCare Hospital
+A1009,P005,Gastritis,Pulmonology,2024-09-28,2024-10-01,Sunrise Medical Center
+A1010,P048,Skin Allergy,General Medicine,2024-08-12,2024-08-15,Green Valley Clinic
+A1011,P032,Fracture,Pulmonology,2025-01-25,2025-02-04,Lifeline Hospital
+A1012,P034,Pneumonia,Psychiatry,2024-12-14,2024-12-16,Apollo City Hospital
+A1013,P028,Depression,Orthopedics,2024-11-01,2024-11-10,Apollo City Hospital
+A1014,P013,Depression,Cardiology,2024-01-20,2024-01-22,Lifeline Hospital
+A1015,P020,Pneumonia,Neurology,2025-06-29,2025-07-02,CityCare Hospital
+A1016,P043,Depression,General Medicine,2025-07-06,2025-07-10,Sunrise Medical Center
+A1017,P020,Depression,Gastroenterology,2024-08-18,2024-08-20,Sunrise Medical Center
+A1018,P002,Migraine,Cardiology,2025-10-08,2025-10-09,Apollo City Hospital
+A1019,P005,Migraine,Oncology,2025-07-06,2025-07-09,Sunrise Medical Center
+A1020,P037,Skin Allergy,Pediatrics,2025-03-17,2025-03-23,CityCare Hospital
+A1021,P027,Pneumonia,Cardiology,2024-12-13,2024-12-15,Apollo City Hospital
+A1022,P013,Skin Allergy,Orthopedics,2024-09-12,2024-09-14,Lifeline Hospital
+A1023,P036,Migraine,Orthopedics,2025-05-07,2025-05-11,Lifeline Hospital
+A1024,P026,Skin Allergy,Oncology,2025-03-09,2025-03-18,Green Valley Clinic
+A1025,P046,Migraine,Cardiology,2024-11-17,2024-11-18,Apollo City Hospital
+A1026,P038,Depression,Neurology,2025-09-01,2025-09-03,CityCare Hospital
+A1027,P016,Flu,Cardiology,2025-08-20,2025-08-30,Lifeline Hospital
+A1028,P021,Asthma,Pulmonology,2025-10-22,2025-10-27,Apollo City Hospital
+A1029,P021,Flu,Neurology,2024-08-06,2024-08-15,St. Mary Health Center
+A1030,P009,Asthma,Orthopedics,2024-11-05,2024-11-15,St. Mary Health Center
+A1031,P042,Pneumonia,Orthopedics,2024-04-19,2024-04-28,CityCare Hospital
+A1032,P018,Migraine,Oncology,2024-02-22,2024-02-24,Green Valley Clinic
+A1033,P028,Fracture,Oncology,2025-03-28,2025-04-06,Apollo City Hospital
+A1034,P028,Fracture,Psychiatry,2025-08-19,2025-08-28,Green Valley Clinic
+A1035,P028,Hypertension,Dermatology,2024-09-12,2024-09-14,Apollo City Hospital
+A1036,P050,Fracture,Orthopedics,2024-07-02,2024-07-08,CityCare Hospital
+A1037,P027,Pneumonia,Pulmonology,2024-08-15,2024-08-19,Lifeline Hospital
+A1038,P030,Hypertension,Pediatrics,2024-10-12,2024-10-14,Green Valley Clinic
+A1039,P018,Depression,Dermatology,2024-09-24,2024-09-27,CityCare Hospital
+A1040,P017,Diabetes,Pulmonology,2025-08-13,2025-08-17,Lifeline Hospital
+A1041,P003,Skin Allergy,Neurology,2024-11-17,2024-11-19,St. Mary Health Center
+A1042,P020,Skin Allergy,Oncology,2025-03-06,2025-03-13,Sunrise Medical Center
+A1043,P048,Depression,Cardiology,2024-08-03,2024-08-10,Green Valley Clinic
+A1044,P038,Gastritis,Gastroenterology,2025-04-29,2025-05-02,St. Mary Health Center
+A1045,P006,Migraine,Oncology,2024-05-30,2024-05-31,Sunrise Medical Center
+A1046,P016,Skin Allergy,General Medicine,2025-01-28,2025-02-05,Apollo City Hospital
+A1047,P016,Skin Allergy,Pediatrics,2025-06-14,2025-06-22,Apollo City Hospital
+A1048,P036,Gastritis,Psychiatry,2025-09-19,2025-09-28,Lifeline Hospital
+A1049,P036,Asthma,Pediatrics,2025-05-11,2025-05-15,St. Mary Health Center
+A1050,P029,Asthma,Dermatology,2024-03-23,2024-03-26,St. Mary Health Center
+A1051,P015,Pneumonia,Pulmonology,2025-07-09,2025-07-17,Green Valley Clinic
+A1052,P004,Hypertension,General Medicine,2024-01-07,2024-01-13,Lifeline Hospital
+A1053,P049,Migraine,Oncology,2024-01-30,2024-02-06,Lifeline Hospital
+A1054,P043,Fracture,General Medicine,2025-08-29,2025-09-08,Lifeline Hospital
+A1055,P002,Gastritis,Orthopedics,2025-01-23,2025-01-29,Green Valley Clinic
+A1056,P030,Skin Allergy,Oncology,2024-01-20,2024-01-29,Lifeline Hospital
+A1057,P023,Hypertension,Cardiology,2024-01-21,2024-01-31,Sunrise Medical Center
+A1058,P016,Migraine,Gastroenterology,2024-06-20,2024-06-30,Green Valley Clinic
+A1059,P048,Flu,Cardiology,2025-01-19,2025-01-26,St. Mary Health Center
+A1060,P013,Asthma,General Medicine,2024-02-12,2024-02-18,St. Mary Health Center
+A1061,P028,Skin Allergy,Gastroenterology,2025-01-05,2025-01-13,Lifeline Hospital
+A1062,P010,Depression,Gastroenterology,2025-08-29,2025-09-03,Lifeline Hospital
+A1063,P016,Gastritis,General Medicine,2024-01-30,2024-02-07,Green Valley Clinic
+A1064,P021,Asthma,Dermatology,2024-10-09,2024-10-18,St. Mary Health Center
+A1065,P034,Gastritis,Psychiatry,2025-05-02,2025-05-10,Apollo City Hospital
+A1066,P002,Migraine,Oncology,2025-07-20,2025-07-29,Lifeline Hospital
+A1067,P028,Gastritis,Oncology,2024-08-24,2024-08-26,Green Valley Clinic
+A1068,P013,Migraine,Gastroenterology,2025-08-26,2025-09-04,Apollo City Hospital
+A1069,P019,Diabetes,Orthopedics,2025-06-30,2025-07-03,CityCare Hospital
+A1070,P003,Fracture,Gastroenterology,2025-08-10,2025-08-15,CityCare Hospital
+A1071,P031,Asthma,Gastroenterology,2025-02-14,2025-02-22,CityCare Hospital
+A1072,P037,Asthma,Neurology,2025-07-25,2025-08-01,CityCare Hospital
+A1073,P039,Gastritis,Oncology,2025-08-05,2025-08-15,Green Valley Clinic
+A1074,P040,Pneumonia,Orthopedics,2025-07-19,2025-07-21,Sunrise Medical Center
+A1075,P001,Hypertension,Pediatrics,2024-10-16,2024-10-24,Apollo City Hospital
+A1076,P044,Pneumonia,Psychiatry,2024-06-01,2024-06-06,Apollo City Hospital
+A1077,P010,Flu,General Medicine,2024-05-07,2024-05-15,Lifeline Hospital
+A1078,P020,Pneumonia,General Medicine,2024-11-26,2024-12-06,Lifeline Hospital
+A1079,P002,Asthma,General Medicine,2025-04-26,2025-05-05,Sunrise Medical Center
+A1080,P029,Gastritis,Neurology,2025-02-22,2025-02-28,Green Valley Clinic
+A1081,P043,Gastritis,Oncology,2024-02-07,2024-02-15,St. Mary Health Center
+A1082,P021,Depression,Cardiology,2024-02-25,2024-02-29,Lifeline Hospital
+A1083,P024,Migraine,Oncology,2025-03-24,2025-04-01,Green Valley Clinic
+A1084,P002,Depression,Cardiology,2024-08-18,2024-08-20,CityCare Hospital
+A1085,P008,Asthma,Pulmonology,2024-09-06,2024-09-14,Lifeline Hospital
+A1086,P010,Asthma,Pulmonology,2024-09-30,2024-10-01,St. Mary Health Center
+A1087,P047,Gastritis,Psychiatry,2024-12-06,2024-12-15,Green Valley Clinic
+A1088,P035,Migraine,General Medicine,2025-02-24,2025-02-25,Sunrise Medical Center
+A1089,P048,Fracture,Gastroenterology,2025-05-29,2025-06-08,Sunrise Medical Center
+A1090,P007,Fracture,Pulmonology,2025-04-25,2025-04-30,CityCare Hospital
+A1091,P040,Depression,Pulmonology,2025-05-14,2025-05-23,Apollo City Hospital
+A1092,P040,Pneumonia,Pulmonology,2024-04-12,2024-04-20,Apollo City Hospital
+A1093,P045,Hypertension,Oncology,2025-03-17,2025-03-20,Green Valley Clinic
+A1094,P034,Fracture,Neurology,2024-09-03,2024-09-11,St. Mary Health Center
+A1095,P010,Asthma,Cardiology,2025-07-13,2025-07-16,Green Valley Clinic
+A1096,P029,Skin Allergy,Oncology,2024-07-22,2024-07-29,Green Valley Clinic
+A1097,P031,Diabetes,General Medicine,2024-10-29,2024-10-30,Apollo City Hospital
+A1098,P043,Hypertension,General Medicine,2024-08-23,2024-09-02,Green Valley Clinic
+A1099,P023,Asthma,Orthopedics,2025-10-23,2025-10-24,Apollo City Hospital
+A1100,P029,Pneumonia,Oncology,2025-03-01,2025-03-04,Apollo City Hospital
