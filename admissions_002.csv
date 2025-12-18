@@ -1,6 +1,0 @@
-﻿AdmissionID,PatientID,Diagnosis,Department,AdmissionDate,DischargeDate,HospitalName
-A1013,P028,Depression,Orthopedics,01-11-2024,12-11-2024,Apollo City Hospital
-A1047,P016,Skin Allergy,Pediatrics,14-06-2025,23-06-2025,Apollo City Hospital
-A1101,P051,Hypertension,Cardiology,01-08-2025,05-08-2025,CityCare Hospital
-A1098,P043,Hypertension,General Medicine,23-08-2024,05-09-2024,Green Valley Clinic
-A1102,P020,Asthma,Pulmonology,10-09-2025,14-09-2025,Lifeline Hospital
